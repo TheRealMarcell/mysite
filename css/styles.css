@@ -1,0 +1,179 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Charis SIL', serif;
+  font-size: 1em;
+}
+
+h1{
+  margin-top: 0;
+  width:40%;
+  margin: 0 auto 0 auto;
+  font-size: 4rem;
+  color: #47B5FF;
+
+}
+
+
+
+h2 {
+  font-family: 'Inconsolata', monospace;
+  font-size: 2.5rem;
+  color: #DFF6FF;
+
+}
+
+h3 {
+  color: #79DAE8;
+
+}
+
+
+p {
+  font-family: 'Inconsolata', monospace;
+  color: #DFF6FF;
+}
+.topcontainer {
+  position: relative;
+  background-color: #06283D;
+
+}
+
+.middle-container{
+  position: relative;
+  padding-top: 65px;
+  background-color: #1363DF;
+  padding-bottom: 65px;
+
+}
+
+.bottom-container{
+  position: relative;
+  background-color: #06283D;
+
+
+}
+
+.right-interceptor {
+  position: relative;
+  left: 375px;
+  top: 50px;
+}
+
+.left-interceptor {
+  position: relative;
+  bottom: 230px;
+  right: 75px;
+}
+
+.death-star {
+  position: relative;
+  top: 8px;
+  right: 50px;
+}
+
+.blaster-bolt-1 {
+  position: relative;
+  transform: rotate(-7deg);
+  left: 120px;
+}
+
+.blaster-bolt-2 {
+  position: relative;
+  transform: rotate(7deg);
+  right: 70px;
+  top: 255px;
+}
+
+.blaster-bolt-3 {
+  position: relative;
+  transform: rotate(7deg);
+  right: 240px;
+  top: 325px;
+
+}
+
+.prof-pic {
+  position: relative;
+  right: 215px;
+}
+
+.dark-trooper {
+  position: relative;
+  left: 400px;
+  transform: rotate(15deg);
+}
+
+.shore-trooper {
+  position: relative;
+  right: 245px;
+  transform: rotate(-15deg);
+}
+
+.python-icon {
+  position: relative;
+  float: left;
+  margin-right: 50px;
+
+}
+
+.webdev-icon {
+  position: relative;
+  float: right;
+  margin-left: 50px;
+}
+
+.lightsaber-1 {
+  position: absolute;
+  right: 1120px;
+  transform: rotate(-15deg);
+}
+
+.fives {
+  position: absolute;
+  bottom: 115px;
+  left: 750px;
+
+}
+
+.wolffe {
+  position: absolute;
+  bottom: 105px;
+  right: 750px;
+}
+
+.contact-me {
+  position: relative;
+  top: 60px;
+
+}
+
+.skills {
+  padding-bottom: 20px;
+  text-align: left;
+  line-height: 175%
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 75px auto;
+}
+
+.obi-wan {
+  position: absolute;
+
+}
+
+.align-right {
+  padding-top: 65px;
+  text-align: right;
+}
+
+.star-destroyer-1 {
+  position: absolute;
+}
+
+.star-destoyer-2 {
+  position:absolute;
+}
